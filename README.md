@@ -1,4 +1,4 @@
-# golang_study
+# golang study
 
 ## Tasks:
 - [ ] 1. [Go cobra](https://github.com/spf13/cobra)
