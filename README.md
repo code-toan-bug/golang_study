@@ -14,4 +14,5 @@
 - [ ] 11. [Go JWT](https://github.com/golang-jwt/jwt)
 - [ ] 12. [Go Redis](https://github.com/redis/go-redis)
 - [ ] 13. [Docker-Compose](https://docs.docker.com/compose)
+- [ ] 14. [go minio](https://github.com/minio/minio-go)
 
