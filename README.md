@@ -4,6 +4,7 @@
 - [ ] 1. [Go cobra](https://github.com/spf13/cobra)
   
   Project Demo: [IPTracker](https://github.com/code-toan-bug/iptrackerProject)
+  Video: [Youtube tutorial](https://www.youtube.com/watch?v=Ll-s38JKWi8)
     
 - [ ] 2. [Go Traefik](https://github.com/traefik/traefik)
 - [ ] 3. [Go viper ](https://github.com/spf13/viper)
