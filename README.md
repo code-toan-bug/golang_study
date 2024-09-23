@@ -1,7 +1,7 @@
 # golang study
 
 ## Tasks:
-- [ ] 1. [Go cobra](https://github.com/spf13/cobra)
+- [x] 1. [Go cobra](https://github.com/spf13/cobra)
   
   Project Demo: [IPTracker](https://github.com/code-toan-bug/iptrackerProject)
 
